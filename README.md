@@ -4,7 +4,7 @@
 
 This is the front-end of a complete E-Commerce website made with HTML, CSS & BOOTSTRAP.
 
-You can check this repository by clicking here - <a href="https://msaini0r.github.io/Ecommerce/"> Link </a> 
+You can check this repository by clicking here - <a href="https://msaini0r.github.io/E-Commerce-Website/"> Link </a> 
 
 
 
