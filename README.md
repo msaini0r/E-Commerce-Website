@@ -13,14 +13,11 @@ You can check this repository by clicking here - <a href="https://msaini0r.githu
 <table style="border:1px solid;">
   <tr >
     <th style="text-align: center; border:1px solid;">Desktop View</th>
-    <th style="text-align: center; border:1px solid;">Mobile View</th>
   </tr>
   <tr >
     <td align="center"; style="text-align: center; border:1px solid;padding:1em;">
-        <img width="80%" src="Assets/musicapp_main.png">
+        <img width="80%" src="Assets/preview.gif">
     </td>
-    <td align="center"; style="text-align: center; border:1px solid;padding:1em;">
-         <img width="80%" src="Assets/musicapp3_main.png">
     </td>
   </tr>
   
