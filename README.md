@@ -11,9 +11,9 @@ You can check this repository by clicking here - <a href="https://msaini0r.githu
 ## Preview ✅
 
 <table style="border:1px solid;">
-  <tr >
+<!--   <tr >
     <th style="text-align: center; border:1px solid;"> Preview </th>
-  </tr>
+  </tr> -->
   <tr >
     <p align="center"; style="text-align: center; border:1px solid;padding:1em;">
         <img width="100%" src="Assets/preview.gif">
