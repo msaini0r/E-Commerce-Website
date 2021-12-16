@@ -3,27 +3,21 @@
 ## Description 📝
 
 This is the front-end of a complete E-Commerce website made with HTML, CSS & BOOTSTRAP.
-
-You can check this repository by clicking here - <a href="https://msaini0r.github.io/E-Commerce-Website/"> Link </a> 
+<br>
 
 
 
 ## Preview ✅
 
 <table style="border:1px solid;">
+<!--   <tr >
+    <th style="text-align: center; border:1px solid;"> Preview </th>
+  </tr> -->
   <tr >
-    <th style="text-align: center; border:1px solid;">Desktop View</th>
-    <th style="text-align: center; border:1px solid;">Mobile View</th>
+    <p align="center"; style="text-align: center; border:1px solid;padding:1em;">
+        <img width="100%" src="Assets/preview.gif">
+    </p>
   </tr>
-  <tr >
-    <td align="center"; style="text-align: center; border:1px solid;padding:1em;">
-        <img width="80%" src="Assets/musicapp_main.png">
-    </td>
-    <td align="center"; style="text-align: center; border:1px solid;padding:1em;">
-         <img width="80%" src="Assets/musicapp3_main.png">
-    </td>
-  </tr>
-  
 </table>
 <br>
 <hr>
